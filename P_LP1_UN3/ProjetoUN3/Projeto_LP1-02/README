@@ -1,0 +1,35 @@
+
+# HAVARD
+
+Sistema de cadastros de Funcionários
+
+## Funcionalidades
+
+- Cadastrar Professor
+- Cadastrar TécnicoADM
+- Cadastrar Coordenador
+- Listar Professor
+- Listar TécnicoADM
+- Listar Coodernador
+- Deletar Professor
+- Deletar TécnicoADM
+- Deletar Coodenador
+- Buscar Professor
+- Buscar TécnicoADM
+- Buscar Coordenador
+
+
+
+## Rodar o programa
+
+Para rodar o Para, rode o seguinte comando
+
+```bash
+  make
+```
+para compilar os arquivos
+
+```bash
+    make run
+```
+para executar o programa

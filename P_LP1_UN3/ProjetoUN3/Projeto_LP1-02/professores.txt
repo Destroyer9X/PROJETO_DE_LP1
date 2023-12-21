@@ -1,0 +1,85 @@
+i
+mestrado
+matematica
+123
+3000
+ciencia
+30
+12/06/2021
+carlos
+123
+13/06/1996
+m
+clovis freitas
+34
+centro
+apodi
+00000000
+vi
+doutorado
+historia
+12
+6000
+linguas
+20
+23/05/2003
+ronaldo gaucho
+12
+12/03/1996
+m
+luis lopes
+24
+centro
+canguaretama
+12123123
+ii
+espacializaçao
+geografia
+123456
+4500
+natureza
+30
+31/06/2023
+patrik
+123456
+23/04/1969
+m
+petriano dutra
+45
+centro
+sao gonçalo
+12123456
+ii
+mestrado
+portugues
+999999
+3500
+linguas
+30
+31/06/1999
+bernardo felix
+999999
+30/12/1981
+m
+luiz alberto
+42
+centro
+apodi
+00000000
+i
+doutorado
+quimica
+0909
+5000
+ciencia
+30
+31/05/2022
+luis carlos
+0909
+23/03/1990
+m
+januario circo
+35
+centro
+campinas
+23456567
